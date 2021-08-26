@@ -1,0 +1,7 @@
+#Approach
+	Piece Centric # bitmap 64
+	Sqaure Centric
+
+# White side has advantage +0.3 in stockfish
+	-ve side depicts black winning
+		Evaluation on lichess stockfish
